@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Des_app_logo">Logo</string>
+    <string name="Des_app_avatar">Avatar</string>
+    <string name="Hint_Username_login">Username</string>
+    <string name="Hint_Password_login">Password</string>
+    <string name="label_Checkpass">Save password</string>
+    <string name="Button_Login">Login</string>
+    <string name="Button_Register">Register</string>
+    <string name="lable_forgot_password">Forgot password?</string>
+    <string name="lable_Login_with">Login with</string>
+    <string name="ic_user">ic_user</string>
+    <string name="ic_pass">ic_pass</string>
+    <string name="Des_login_face">Login with face</string>
+    <string name="Des_login_google">Login with google</string>
+    <string name="lable_basicinformation">Basic information</string>
+    <string name="label_privateinformation">Private Information</string>
+    <string name="Hint_Fullname">Fullname</string>
+    <string name="Hint_Email">Email</string>
+    <string name="Hint_Pass_Regis">Password</string>
+    <string name="Hint_Phone">Phone Number</string>
+    <string name="Have_Account">I have Account</string>
+    <string name="Itemlistview_NameContryVN">Việt Nam</string>
+    <string name="Itemlistview_NameContryEN">Vietnam</string>
+    <string name="Itemlistview_NameCapitalVN">Hà Nội</string>
+    <string name="Itemlistview_NameCapitalEN">Hanoi</string>
+    <string name="Home_Button">2.List</string>
+    <string name="ListCountriActivity_Switch">Switch</string>
+
+</resources>
